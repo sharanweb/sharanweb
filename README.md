@@ -30,6 +30,8 @@
 </p>
 <div align="center">
   
+  
+  
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sharanweb&theme=dracula&hide_border=true)
 
 
@@ -48,6 +50,22 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharanweb&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p> 
      
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+   <p align="center">
+   
+<a href="https://twitter.com/sharandooganavar" target="blank" >
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShreyasKhakal" height="30" width="40" />
+  </a>
+<a href="https://www.linkedin.com/in/shrarandooganavar/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreyasgkhakal100" height="30" width="40" />
+  </a>
+   
+</p>  
+     
+     
+     
+  
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  
 
 
 <!--
